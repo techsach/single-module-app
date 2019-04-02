@@ -1,4 +1,11 @@
-# MyApp
+# Single Module Angular Application
+
+This is an example angular project which shows how you can have a simple single module angular application.
+
+This project only contains,
+1. app.module - main module (you can ignore app-routing.module as of now)
+1. app.component - main and only component
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
